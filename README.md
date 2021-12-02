@@ -4,6 +4,7 @@
 <ul>
  <li> Atualmente estou estudando o básico de Front-End (HTML5, CSS3 e JavaScript)
  <li> Meu Email: <a href="#">alferr445@gmail.com</a>
+ <li> Meu Linkedin: https://www.linkedin.com/in/aldemir-ferreira-5b7192227/
  <li> Meus interesses incluem também Bootstrap e Design Gráfico
 </ul> 
 
