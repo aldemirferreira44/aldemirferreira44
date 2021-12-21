@@ -9,7 +9,7 @@
  <h2> Me chamo <em>Aldemir Ferreira</em> e aqui vão algumas informações sobre mim: </h2>
 <ul>
  <li> Atualmente estou estudando o básico de Front-End (HTML5, CSS3 e JavaScript)
- <li> Meus interesses incluem também Bootstrap e Design Gráfico
+ <li> Pretendo seguir na área Front-End e eventualmente migrar meus estudos para o Back-End
 </ul> 
 
 
@@ -21,6 +21,8 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </div>
  
